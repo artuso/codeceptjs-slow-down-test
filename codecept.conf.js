@@ -19,7 +19,9 @@ exports.config = {
     }
   },
   include: {
-    airbnbMainPage: './pages/airbnbMainPage.js'
+    airbnbMainPage: './pages/airbnbMainPage.js',
+    mainYaPage: './pages/mainYaPage.js',
+    reactTodoPage: './pages/reactTodoPage.js'
   },
   bootstrap: null,
   mocha: {},
