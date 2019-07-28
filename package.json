@@ -1,0 +1,24 @@
+{
+  "name": "codeceptjs-slow-down-test",
+  "version": "1.0.0",
+  "description": "Playback of slow downs in new versions of codeceptjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run",
+    "debug": "codeceptjs run --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artuso/codeceptjs-slow-down-test.git"
+  },
+  "author": "artuso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artuso/codeceptjs-slow-down-test/issues"
+  },
+  "homepage": "https://github.com/artuso/codeceptjs-slow-down-test#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.2.0",
+    "puppeteer": "^1.19.0"
+  }
+}
