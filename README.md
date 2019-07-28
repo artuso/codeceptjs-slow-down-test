@@ -13,8 +13,10 @@ Playback slow downs when you run the tests when using codecepttionJS above versi
 ## Run tests
 
 - `npm test`
-![Result on 2.2.0](https://drive.google.com/open?id=1WPrTzq0ZHRcgCSv8dvWHHCxDl9wUt1Sj)
+
+![2 2 0](https://user-images.githubusercontent.com/17942339/62004769-f6953c00-b131-11e9-893b-2d13d2988ed4.png)
 
 - `npm install codeceptjs@2.1.2 --save-dev`
 - `npm test`
-![Result on 2.1.2](https://drive.google.com/open?id=1fh4Ll-J-Ee3tw6jH0hR6JHkllE3Mb5cN)
+
+![2 1 2](https://user-images.githubusercontent.com/17942339/62004775-fe54e080-b131-11e9-904e-2de30163b7fb.png)
